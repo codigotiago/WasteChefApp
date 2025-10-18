@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Waste-Not Chef AI",
+  "description": "An AI-powered application that helps reduce food waste. Users upload a photo of their ingredients, and the app uses the Gemini API to identify them, generate a custom recipe, and provide sustainability tips. It also features text-to-speech for hands-free recipe guidance.",
+  "requestFramePermissions": []
+}
